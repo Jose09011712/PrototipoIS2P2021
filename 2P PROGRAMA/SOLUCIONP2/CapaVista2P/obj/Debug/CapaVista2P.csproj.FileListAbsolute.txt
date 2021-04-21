@@ -1,0 +1,108 @@
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista2P.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista2P.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csprojAssemblyReference.cache
+D:\Escritorio\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador2P.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador2P.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csproj.CopyComplete
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaNavegador.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaSeguridad.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaReporteador.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorNavegador.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorSeguridad.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloSeguridad.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloReporteador.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorReporteador.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloNavegador.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModelo.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\stdole.dll
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaNavegador.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaSeguridad.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaReporteador.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorNavegador.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorSeguridad.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloSeguridad.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloReporteador.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorReporteador.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloNavegador.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModelo.pdb
+D:\Escritorio\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.MDI.resources
+D:\Escritorio\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csproj.GenerateResource.cache
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista2P.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista2P.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador2P.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaNavegador.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaSeguridad.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaReporteador.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorNavegador.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorSeguridad.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloSeguridad.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloReporteador.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorReporteador.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloNavegador.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.Shared.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModelo.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\ShockwaveFlashObjects.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\stdole.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador2P.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaNavegador.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaSeguridad.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVistaReporteador.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaVista.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorNavegador.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorSeguridad.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloSeguridad.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloReporteador.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControladorReporteador.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaControlador.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModeloNavegador.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModelo.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csprojAssemblyReference.cache
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.MDI.resources
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csproj.GenerateResource.cache
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.csproj.CopyComplete
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.pdb

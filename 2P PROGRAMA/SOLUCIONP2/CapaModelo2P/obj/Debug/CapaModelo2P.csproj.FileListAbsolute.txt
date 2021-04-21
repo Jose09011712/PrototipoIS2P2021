@@ -1,0 +1,12 @@
+D:\Escritorio\SOLUCIONP2\CapaModelo2P\bin\Debug\CapaModelo2P.dll
+D:\Escritorio\SOLUCIONP2\CapaModelo2P\bin\Debug\CapaModelo2P.pdb
+D:\Escritorio\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csprojAssemblyReference.cache
+D:\Escritorio\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.dll
+D:\Escritorio\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\bin\Debug\CapaModelo2P.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\bin\Debug\CapaModelo2P.pdb
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csprojAssemblyReference.cache
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.dll
+D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.pdb

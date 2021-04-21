@@ -1,0 +1,12 @@
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\bin\Debug\Ejecucion2P.exe.config
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\bin\Debug\Ejecucion2P.exe
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\bin\Debug\Ejecucion2P.pdb
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\bin\Debug\CapaVista2P.dll
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\bin\Debug\CapaVista2P.pdb
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\obj\Debug\Ejecucion2P.csprojAssemblyReference.cache
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\obj\Debug\Ejecucion2P.Properties.Resources.resources
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\obj\Debug\Ejecucion2P.csproj.GenerateResource.cache
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\obj\Debug\Ejecucion2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\obj\Debug\Ejecucion2P.csproj.CopyComplete
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\obj\Debug\Ejecucion2P.exe
+D:\Escritorio\2P PROGRAMA\Ejecucion2P\Ejecucion2P\obj\Debug\Ejecucion2P.pdb
