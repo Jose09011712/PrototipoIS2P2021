@@ -58,6 +58,12 @@
     <Compile Include="frmProveedor.Designer.cs">
       <DependentUpon>frmProveedor.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmRentaVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRentaVideo.Designer.cs">
+      <DependentUpon>frmRentaVideo.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTargeta.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,6 +105,9 @@
   <ItemGroup>
     <EmbeddedResource Include="frmProveedor.resx">
       <DependentUpon>frmProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRentaVideo.resx">
+      <DependentUpon>frmRentaVideo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTargeta.resx">
       <DependentUpon>frmTargeta.cs</DependentUpon>

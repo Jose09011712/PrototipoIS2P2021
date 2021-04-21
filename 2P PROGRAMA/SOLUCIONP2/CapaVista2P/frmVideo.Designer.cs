@@ -34,7 +34,7 @@ namespace CapaVista2P
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
+            this.Estado = new System.Windows.Forms.Label();
             this.rdInactivo = new System.Windows.Forms.RadioButton();
             this.rdActivo = new System.Windows.Forms.RadioButton();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -42,9 +42,11 @@ namespace CapaVista2P
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.txtEstado = new System.Windows.Forms.TextBox();
             this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.comboBox4 = new System.Windows.Forms.ComboBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.txtEstado = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -95,20 +97,20 @@ namespace CapaVista2P
             this.label4.TabIndex = 11;
             this.label4.Text = "proveedor";
             // 
-            // label5
+            // Estado
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(22, 307);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(46, 17);
-            this.label5.TabIndex = 12;
-            this.label5.Tag = "estado";
-            this.label5.Text = "label5";
+            this.Estado.AutoSize = true;
+            this.Estado.Location = new System.Drawing.Point(26, 365);
+            this.Estado.Name = "Estado";
+            this.Estado.Size = new System.Drawing.Size(52, 17);
+            this.Estado.TabIndex = 12;
+            this.Estado.Tag = "estado";
+            this.Estado.Text = "Estado";
             // 
             // rdInactivo
             // 
             this.rdInactivo.AutoSize = true;
-            this.rdInactivo.Location = new System.Drawing.Point(266, 316);
+            this.rdInactivo.Location = new System.Drawing.Point(265, 363);
             this.rdInactivo.Name = "rdInactivo";
             this.rdInactivo.Size = new System.Drawing.Size(77, 21);
             this.rdInactivo.TabIndex = 14;
@@ -120,7 +122,7 @@ namespace CapaVista2P
             // rdActivo
             // 
             this.rdActivo.AutoSize = true;
-            this.rdActivo.Location = new System.Drawing.Point(165, 312);
+            this.rdActivo.Location = new System.Drawing.Point(164, 359);
             this.rdActivo.Name = "rdActivo";
             this.rdActivo.Size = new System.Drawing.Size(66, 21);
             this.rdActivo.TabIndex = 13;
@@ -157,6 +159,7 @@ namespace CapaVista2P
             // 
             // comboBox1
             // 
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Location = new System.Drawing.Point(382, 238);
             this.comboBox1.Name = "comboBox1";
@@ -167,6 +170,7 @@ namespace CapaVista2P
             // 
             // comboBox2
             // 
+            this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Location = new System.Drawing.Point(385, 274);
             this.comboBox2.Name = "comboBox2";
@@ -175,18 +179,9 @@ namespace CapaVista2P
             this.comboBox2.Tag = "idProveedor";
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged_1);
             // 
-            // txtEstado
-            // 
-            this.txtEstado.Location = new System.Drawing.Point(385, 306);
-            this.txtEstado.Name = "txtEstado";
-            this.txtEstado.Size = new System.Drawing.Size(118, 22);
-            this.txtEstado.TabIndex = 20;
-            this.txtEstado.Tag = "estado";
-            this.txtEstado.Visible = false;
-            this.txtEstado.TextChanged += new System.EventHandler(this.txtEstado_TextChanged_1);
-            // 
             // comboBox3
             // 
+            this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3.FormattingEnabled = true;
             this.comboBox3.Location = new System.Drawing.Point(166, 234);
             this.comboBox3.Name = "comboBox3";
@@ -196,6 +191,7 @@ namespace CapaVista2P
             // 
             // comboBox4
             // 
+            this.comboBox4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4.FormattingEnabled = true;
             this.comboBox4.Location = new System.Drawing.Point(166, 274);
             this.comboBox4.Name = "comboBox4";
@@ -203,14 +199,42 @@ namespace CapaVista2P
             this.comboBox4.TabIndex = 22;
             this.comboBox4.SelectedIndexChanged += new System.EventHandler(this.comboBox4_SelectedIndexChanged);
             // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(166, 315);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(210, 22);
+            this.textBox3.TabIndex = 23;
+            this.textBox3.Tag = "Existencia";
+            // 
+            // txtEstado
+            // 
+            this.txtEstado.Location = new System.Drawing.Point(381, 358);
+            this.txtEstado.Name = "txtEstado";
+            this.txtEstado.Size = new System.Drawing.Size(105, 22);
+            this.txtEstado.TabIndex = 24;
+            this.txtEstado.Tag = "estado";
+            this.txtEstado.TextChanged += new System.EventHandler(this.txtEstado_TextChanged_2);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(26, 320);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(71, 17);
+            this.label5.TabIndex = 25;
+            this.label5.Text = "Existencia";
+            // 
             // frmVideo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1431, 355);
+            this.ClientSize = new System.Drawing.Size(1431, 529);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.txtEstado);
+            this.Controls.Add(this.textBox3);
             this.Controls.Add(this.comboBox4);
             this.Controls.Add(this.comboBox3);
-            this.Controls.Add(this.txtEstado);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.textBox2);
@@ -218,7 +242,7 @@ namespace CapaVista2P
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.rdInactivo);
             this.Controls.Add(this.rdActivo);
-            this.Controls.Add(this.label5);
+            this.Controls.Add(this.Estado);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -240,7 +264,7 @@ namespace CapaVista2P
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label Estado;
         private System.Windows.Forms.RadioButton rdInactivo;
         private System.Windows.Forms.RadioButton rdActivo;
         private System.Windows.Forms.DataGridView dataGridView1;
@@ -248,8 +272,10 @@ namespace CapaVista2P
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.TextBox txtEstado;
         private System.Windows.Forms.ComboBox comboBox3;
         private System.Windows.Forms.ComboBox comboBox4;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox txtEstado;
+        private System.Windows.Forms.Label label5;
     }
 }

@@ -168,3 +168,4 @@ D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaVis
 D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaVista2P\bin\Debug\CapaModelo2P.pdb
 D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.frmProveedor.resources
 D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.frmTargeta.resources
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaVista2P\obj\Debug\CapaVista2P.frmRentaVideo.resources

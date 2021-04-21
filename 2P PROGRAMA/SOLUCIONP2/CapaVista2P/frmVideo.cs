@@ -158,5 +158,18 @@ namespace CapaVista2P
                 rdActivo.Checked = true;
             }
         }
+
+        private void txtEstado_TextChanged_2(object sender, EventArgs e)
+        {
+            if (txtEstado.Text == "")
+            {
+                rdActivo.Checked = false;
+                rdInactivo.Checked = false;
+            }
+            if (txtEstado.Text == "1")
+            {
+                rdActivo.Checked = true;
+            }
+        }
     }
 }
