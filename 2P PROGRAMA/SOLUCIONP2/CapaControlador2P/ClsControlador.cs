@@ -15,5 +15,18 @@ namespace CapaControlador2P
             string[] Items = Sn.funcLlenarCmb(Tabla, estado, Campo);
             return Items;
         }
+
+        public int funcCodigoMaximo(string Tabla, string Campo)
+        {
+            int CodigoNuevo = Sn.funcObtenerCodigo(Tabla, Campo);
+            return CodigoNuevo;
+        }
+
+        public void procDatosInsertar(string tabla, List<string> lista)
+        {
+            Sn.procInsertarDatos(tabla, lista);
+        }
+
+
     }
 }

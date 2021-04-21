@@ -140,5 +140,23 @@ namespace CapaVista2P
                 MessageBox.Show("El Usuario No Cuenta Con Permisos De Acceso A La Aplicación");
             }
         }
+
+        private void rentaVideoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (seguridad.PermisosAcceso("1302", txtUsuario.Text) == 1)
+            {
+                bit.user(txtUsuario.Text);
+                bit.insert("Ingreso al mantenimiento de usuarios", 1302);
+                frmRentaVideo asignacion = new frmRentaVideo();
+                asignacion.MdiParent = this;
+                asignacion.Show();
+            }
+            else
+            {
+                bit.user(txtUsuario.Text);
+                bit.insert("Trato de ingresar al mantenimiento de usuarios", 1302);
+                MessageBox.Show("El Usuario No Cuenta Con Permisos De Acceso A La Aplicación");
+            }
+        }
     }
 }

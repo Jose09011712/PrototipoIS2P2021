@@ -33,6 +33,12 @@ namespace CapaVista2P
             this.inicioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cerrarSesionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catalogoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tipoVideoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.videoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tipoClienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.clienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.proveedorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.targetaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -47,12 +53,8 @@ namespace CapaVista2P
             this.asignacionDeAplicacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.txtUsuario = new System.Windows.Forms.TextBox();
-            this.tipoVideoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.videoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.tipoClienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.clienteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.proveedorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.targetaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.rentaVideoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bonificacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -99,8 +101,53 @@ namespace CapaVista2P
             this.catalogoToolStripMenuItem.Size = new System.Drawing.Size(84, 24);
             this.catalogoToolStripMenuItem.Text = "Catalogo";
             // 
+            // tipoVideoToolStripMenuItem
+            // 
+            this.tipoVideoToolStripMenuItem.Name = "tipoVideoToolStripMenuItem";
+            this.tipoVideoToolStripMenuItem.Size = new System.Drawing.Size(172, 26);
+            this.tipoVideoToolStripMenuItem.Text = "Tipo Video";
+            this.tipoVideoToolStripMenuItem.Click += new System.EventHandler(this.tipoVideoToolStripMenuItem_Click);
+            // 
+            // videoToolStripMenuItem
+            // 
+            this.videoToolStripMenuItem.Name = "videoToolStripMenuItem";
+            this.videoToolStripMenuItem.Size = new System.Drawing.Size(172, 26);
+            this.videoToolStripMenuItem.Text = "Video";
+            this.videoToolStripMenuItem.Click += new System.EventHandler(this.videoToolStripMenuItem_Click);
+            // 
+            // tipoClienteToolStripMenuItem
+            // 
+            this.tipoClienteToolStripMenuItem.Name = "tipoClienteToolStripMenuItem";
+            this.tipoClienteToolStripMenuItem.Size = new System.Drawing.Size(172, 26);
+            this.tipoClienteToolStripMenuItem.Text = "Tipo Cliente";
+            this.tipoClienteToolStripMenuItem.Click += new System.EventHandler(this.tipoClienteToolStripMenuItem_Click);
+            // 
+            // clienteToolStripMenuItem
+            // 
+            this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
+            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(172, 26);
+            this.clienteToolStripMenuItem.Text = "Cliente";
+            this.clienteToolStripMenuItem.Click += new System.EventHandler(this.clienteToolStripMenuItem_Click);
+            // 
+            // proveedorToolStripMenuItem
+            // 
+            this.proveedorToolStripMenuItem.Name = "proveedorToolStripMenuItem";
+            this.proveedorToolStripMenuItem.Size = new System.Drawing.Size(172, 26);
+            this.proveedorToolStripMenuItem.Text = "Proveedor";
+            this.proveedorToolStripMenuItem.Click += new System.EventHandler(this.proveedorToolStripMenuItem_Click);
+            // 
+            // targetaToolStripMenuItem
+            // 
+            this.targetaToolStripMenuItem.Name = "targetaToolStripMenuItem";
+            this.targetaToolStripMenuItem.Size = new System.Drawing.Size(172, 26);
+            this.targetaToolStripMenuItem.Text = "Targeta";
+            this.targetaToolStripMenuItem.Click += new System.EventHandler(this.targetaToolStripMenuItem_Click);
+            // 
             // procesosToolStripMenuItem
             // 
+            this.procesosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.rentaVideoToolStripMenuItem,
+            this.bonificacionToolStripMenuItem});
             this.procesosToolStripMenuItem.Name = "procesosToolStripMenuItem";
             this.procesosToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
             this.procesosToolStripMenuItem.Text = "Procesos";
@@ -198,47 +245,18 @@ namespace CapaVista2P
             this.txtUsuario.Size = new System.Drawing.Size(100, 22);
             this.txtUsuario.TabIndex = 2;
             // 
-            // tipoVideoToolStripMenuItem
+            // rentaVideoToolStripMenuItem
             // 
-            this.tipoVideoToolStripMenuItem.Name = "tipoVideoToolStripMenuItem";
-            this.tipoVideoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.tipoVideoToolStripMenuItem.Text = "Tipo Video";
-            this.tipoVideoToolStripMenuItem.Click += new System.EventHandler(this.tipoVideoToolStripMenuItem_Click);
+            this.rentaVideoToolStripMenuItem.Name = "rentaVideoToolStripMenuItem";
+            this.rentaVideoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.rentaVideoToolStripMenuItem.Text = "Renta Video";
+            this.rentaVideoToolStripMenuItem.Click += new System.EventHandler(this.rentaVideoToolStripMenuItem_Click);
             // 
-            // videoToolStripMenuItem
+            // bonificacionToolStripMenuItem
             // 
-            this.videoToolStripMenuItem.Name = "videoToolStripMenuItem";
-            this.videoToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.videoToolStripMenuItem.Text = "Video";
-            this.videoToolStripMenuItem.Click += new System.EventHandler(this.videoToolStripMenuItem_Click);
-            // 
-            // tipoClienteToolStripMenuItem
-            // 
-            this.tipoClienteToolStripMenuItem.Name = "tipoClienteToolStripMenuItem";
-            this.tipoClienteToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.tipoClienteToolStripMenuItem.Text = "Tipo Cliente";
-            this.tipoClienteToolStripMenuItem.Click += new System.EventHandler(this.tipoClienteToolStripMenuItem_Click);
-            // 
-            // clienteToolStripMenuItem
-            // 
-            this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
-            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.clienteToolStripMenuItem.Text = "Cliente";
-            this.clienteToolStripMenuItem.Click += new System.EventHandler(this.clienteToolStripMenuItem_Click);
-            // 
-            // proveedorToolStripMenuItem
-            // 
-            this.proveedorToolStripMenuItem.Name = "proveedorToolStripMenuItem";
-            this.proveedorToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.proveedorToolStripMenuItem.Text = "Proveedor";
-            this.proveedorToolStripMenuItem.Click += new System.EventHandler(this.proveedorToolStripMenuItem_Click);
-            // 
-            // targetaToolStripMenuItem
-            // 
-            this.targetaToolStripMenuItem.Name = "targetaToolStripMenuItem";
-            this.targetaToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.targetaToolStripMenuItem.Text = "Targeta";
-            this.targetaToolStripMenuItem.Click += new System.EventHandler(this.targetaToolStripMenuItem_Click);
+            this.bonificacionToolStripMenuItem.Name = "bonificacionToolStripMenuItem";
+            this.bonificacionToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.bonificacionToolStripMenuItem.Text = "Bonificacion";
             // 
             // MDI
             // 
@@ -287,5 +305,7 @@ namespace CapaVista2P
         private System.Windows.Forms.ToolStripMenuItem clienteToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem proveedorToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem targetaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem rentaVideoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem bonificacionToolStripMenuItem;
     }
 }
