@@ -16,3 +16,12 @@ D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador
 D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.csproj.CopyComplete
 D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.dll
 D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.pdb
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\bin\Debug\CapaControlador2P.dll
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\bin\Debug\CapaControlador2P.pdb
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\bin\Debug\CapaModelo2P.dll
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\bin\Debug\CapaModelo2P.pdb
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.csprojAssemblyReference.cache
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.csproj.CopyComplete
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.dll
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaControlador2P\obj\Debug\CapaControlador2P.pdb

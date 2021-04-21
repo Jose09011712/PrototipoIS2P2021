@@ -10,3 +10,9 @@ D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csprojA
 D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csproj.CoreCompileInputs.cache
 D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.dll
 D:\Escritorio\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.pdb
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\bin\Debug\CapaModelo2P.dll
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\bin\Debug\CapaModelo2P.pdb
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csprojAssemblyReference.cache
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.csproj.CoreCompileInputs.cache
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.dll
+D:\Escritorio\PrototipoIS2P2021\PrototipoIS2P2021\2P PROGRAMA\SOLUCIONP2\CapaModelo2P\obj\Debug\CapaModelo2P.pdb
